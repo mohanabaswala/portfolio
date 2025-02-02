@@ -78,5 +78,15 @@
       "view": "https://mohanabaswala.github.io/table-view1/",
       "code": "#"
     }
+  },
+  {
+    "name": "Register-Form",
+    "desc": "Full-Stack front end Details based on differenet design patterns. Built using Python,Html,Css.",
+    "image": "register-form",
+    "category": "Frontend",
+    "links": {
+      "view": "https://mohanabaswala.github.io/register-form/",
+      "code": "#"
+    }
   }
 ]
